@@ -113,9 +113,3 @@ Searchable reference for **Grand Theft Auto VI (GTA 6)** cheat codes, unlock req
 | **Hellscape** | Visual filter | Steal 100 cop vehicles | Pending / Unconfirmed |
 
 ---
-
-## Deploying to GitHub Pages
-
-1. Push `index.html`, `README.md`, `sitemap.xml`, and `robots.txt` to the `main` branch.
-2. Go to **Settings → Pages**, select **Deploy from a branch**, and choose `main` / `/ (root)`.
-3. Replace placeholder URLs in `index.html` and `sitemap.xml` with your live GitHub Pages URL, then submit the sitemap in Google Search Console.
