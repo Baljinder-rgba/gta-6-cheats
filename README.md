@@ -4,7 +4,7 @@ Searchable reference for **Grand Theft Auto VI (GTA 6)** cheat codes, unlock req
 
 > **Independent Fan Resource:** This project is an independent, fan-made guide and is not affiliated with or endorsed by Rockstar Games.
 
-- **Live Website:** `https://<your-username>.github.io/<your-repo-name>/`
+- **Live Website:** `https://baljinder-rgba.github.io/gta-6-cheats/`
 - **Total Cheats in Game:** 61 across 5 categories (Player, Combat, Vehicle Spawns, Weather & Time, and Screen Filters)
 - **Last Verified:** November 20, 2026
 
